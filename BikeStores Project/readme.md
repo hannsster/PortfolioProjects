@@ -57,7 +57,7 @@ The project is organized into the following sections:
 
 1. **Customer Analysis:** In this section, I analyzed the data to identify the top customers based on their total purchase value. The analysis provides insights into the most valuable customers, enabling the business to tailor marketing strategies and enhance customer loyalty.
 
-1. **Seller Analysis:** Here, I studied the data to determine the best-performing sellers based on their total sales. The analysis helps optimize seller allocation and incentivize top-performing sales representatives.
+1. **Seller Analysis:** Here, I studied the data to determine the best-performing sellers based on their total sales. The analysis helps incentivize top-performing sales representatives.
 
 1. **Brand Analysis:** The Brand Analysis section examines the sales performance of different bike brands, helping identify the most popular brands and potential areas for improvement.
 
