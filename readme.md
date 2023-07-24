@@ -8,7 +8,7 @@ Welcome to my Data Analysis Projects Repository! This repository contains variou
 ## Languages & Skills
 - Python
 - PostgreSQL
-- Microsoft SQL Server
+- T-SQL
 - Excel
 - Tableau
 
