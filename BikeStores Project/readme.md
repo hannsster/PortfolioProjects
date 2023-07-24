@@ -21,6 +21,9 @@ The BikeStores dataset is stored in an Excel file named BikeStores.xlsx and cont
 - store_name: The name of the BikeStore.
 - sales_rep: The name of the sales representative handling the order.
 - brand_name: The brand of the bikes sold in the store.
+![image](https://github.com/hannsster/PortfolioProjects/assets/138026180/4bac0060-f08e-4659-a781-4ae4303c4950)
+(Small look at the dataset)
+
 ## SQL Database
 To conduct the analysis, I imported the data into a SQL database using the SQL queries obtained from the [SQL Server Tutorial website](https://www.sqlservertutorial.net/load-sample-database/). Specifically, I used the "**BikeStores Sample Database - create objects.sql**" file to create the necessary tables and the "**BikeStores Sample Database - load data.sql**" file to insert the data into the respective tables.
 
@@ -28,6 +31,8 @@ To conduct the analysis, I imported the data into a SQL database using the SQL q
 I have created an interactive Tableau dashboard that provides a comprehensive overview of the BikeStores dataset. The dashboard allows you to explore key insights, trends, and performance metrics by filtering data based on the year and state.
 
 Dashboard Link: [BikeStores Tableau Dashboard](https://public.tableau.com/app/profile/alejandro.hansen/viz/BikeStoresDashboard_16902270155510/Dashboard1)
+![image](https://github.com/hannsster/PortfolioProjects/assets/138026180/96fe4904-4ec1-4def-a916-90045ffd972e)
+(Small look at the dashboard)
 
 The Tableau dashboard includes the following visualizations:
 
