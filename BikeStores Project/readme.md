@@ -32,6 +32,7 @@ I have created an interactive Tableau dashboard that provides a comprehensive ov
 
 Dashboard Link: [BikeStores Tableau Dashboard](https://public.tableau.com/app/profile/alejandro.hansen/viz/BikeStoresDashboard_16902270155510/Dashboard1)
 ![image](https://github.com/hannsster/PortfolioProjects/assets/138026180/96fe4904-4ec1-4def-a916-90045ffd972e)
+
 (Small look at the dashboard)
 
 The Tableau dashboard includes the following visualizations:
