@@ -4,7 +4,7 @@ Welcome to my Data Analysis Projects Repository! This repository contains variou
 ## Contact Details
 - **Github:** https://github.com/hannsster
 - **LinkedIn:** https://www.linkedin.com/in/alehansen/
-- **Email:** alejandrocordobahansen@gmail.com
+- **Email:** alejandrocordobahansen@outlook.com
 ## Languages & Skills
 - Python
 - PostgreSQL
